@@ -1,0 +1,12 @@
+.Label {
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.Input {
+  margin-left: 20px;
+  width: 200px;
+  background: #ffffff;
+  box-shadow: -5px 5px 10px #a6a6a6, 5px -5px 10px #ffffff;
+}
